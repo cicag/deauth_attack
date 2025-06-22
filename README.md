@@ -60,6 +60,7 @@ Here's a basic README for performing a deauthentication attack using `aircrack-n
    Replace `<BSSID>` with the BSSID of the target network obtained from the previous step.
 
    `-0` flag specifies the deauthentication attack.
+   
    `5` represents the number of deauthentication packets to send. Adjust as needed. `0` means unlimited.
 
 8. **Monitor Activity**: Switch back to the first terminal where `airodump-ng` is running. You should see devices disconnecting and attempting to reconnect to the target network.
