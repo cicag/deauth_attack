@@ -50,7 +50,7 @@ Berikut panduan dasar untuk melakukan serangan deauth menggunakan `aircrack-ng` 
    ```bash
    sudo airodump-ng wlan0mon --channel 1
    ```
-   Gantu `1` dengan channel targetmu.
+   Ganti `1` dengan channel targetmu.
 
 7. **Jalankan Serangan Deauthentication**: Buka terminal baru dan lakukan serangan dengan:
 
