@@ -1,4 +1,4 @@
-![English](README.md)/Bahasa
+![English](README.md) / Bahasa
 # Deauthentication Attack dengan `aircrack-ng` di Linux
 
 Berikut panduan dasar untuk melakukan serangan deauth menggunakan `aircrack-ng` pada sistem berbasis Ubuntu/Debian (mungkin identik pada sistem lain):

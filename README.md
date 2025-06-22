@@ -1,3 +1,4 @@
+English / ![Bahasa](README-id.md)
 # Deauthentication Attack using `aircrack-ng` suite on Linux
 
 Here's a basic README for performing a deauthentication attack using `aircrack-ng` suite in Ubuntu/Debian-based system (may be identical on other system):
