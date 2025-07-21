@@ -38,7 +38,7 @@ Berikut panduan dasar untuk melakukan serangan deauth menggunakan `aircrack-ng` 
    ```
    Cek apakah nama antarmuka berubah (contoh: `wlan0mon` `wlp3s0mon`).
 
-5. **Pidai Jaringan}**: Gunakan `airodump-ng` untuk memindai jaringan sekitar dan catat channel dan BSSID (alamat MAC) target:
+5. **Pindai Jaringan**: Gunakan `airodump-ng` untuk memindai jaringan sekitar dan catat channel dan BSSID (alamat MAC) target:
 
    ```bash
    sudo airodump-ng wlan0mon
@@ -62,7 +62,7 @@ Berikut panduan dasar untuk melakukan serangan deauth menggunakan `aircrack-ng` 
    `-0` diperlukan untuk deauthentication.\
    `5` adalah jumlah berapa kali paket deauth dikirimkan. Atur sesuai kebutuhan. `0` berarti tanpa batas.
 
-8. **Pantau AKtiviats**: Kembali ke layar `airodump-ng`. perangkat yang terputus dan mencoba menyambung ulang harusnya terlihat.
+8. **Pantau Aktiviats**: Kembali ke layar `airodump-ng`. perangkat yang terputus dan mencoba menyambung ulang harusnya terlihat.
 
 9. **Matikan Mode Monitor**: Setelah selesai, matikan mode monitor dengan:
 
