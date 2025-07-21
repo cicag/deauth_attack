@@ -5,7 +5,7 @@ Berikut panduan dasar untuk melakukan serangan deauth menggunakan `aircrack-ng` 
 
 ---
 
-## Prasyaat
+## Prasyarat
 
 - Kartu Jaringan yang support mode monitor dan packet injection (contoh: Atheros AR9565)
 - `aircrack-ng` terpasang, jika belum:
