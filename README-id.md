@@ -1,4 +1,4 @@
-[English](README.md) / Bahasa
+[English](README.md) / Bahasa / [Jawa](README-jv.md)
 # Deauthentication Attack dengan `aircrack-ng` di Linux
 
 Berikut panduan dasar untuk melakukan serangan deauth menggunakan `aircrack-ng` pada sistem berbasis Ubuntu/Debian (mungkin identik pada sistem lain):
@@ -62,7 +62,7 @@ Berikut panduan dasar untuk melakukan serangan deauth menggunakan `aircrack-ng` 
    `-0` diperlukan untuk deauthentication.\
    `5` adalah jumlah berapa kali paket deauth dikirimkan. Atur sesuai kebutuhan. `0` berarti tanpa batas.
 
-8. **Pantau Aktiviats**: Kembali ke layar `airodump-ng`. perangkat yang terputus dan mencoba menyambung ulang harusnya terlihat.
+8. **Pantau Aktivitas**: Kembali ke layar `airodump-ng`. perangkat yang terputus dan mencoba menyambung ulang harusnya terlihat.
 
 9. **Matikan Mode Monitor**: Setelah selesai, matikan mode monitor dengan:
 
